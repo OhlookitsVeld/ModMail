@@ -1,0 +1,27 @@
+{
+    "name": "ModMail",
+    "description": "Modmail is a Discord Bot similar to Reddit's Modmail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.",
+    "repository": "https://github.com/OhlookitsVeld/ModMail",
+    "env": {
+      "TOKEN": {
+        "description": "Your Discord bot's token.",
+        "required": true
+      },
+      "GUILD_ID": {
+        "description": "The ID for the server you are hosting this bot for.",
+        "required": true
+      },
+      "OWNERS": {
+        "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
+        "required": true
+      },
+      "MONGO_URI": {
+        "description": "Mongo DB connection URI for self-hosting your data.",
+        "required": true
+      },
+      "LOG_URL": {
+        "description": "The URL of the log viewer app for viewing self-hosted logs.",
+        "required": true
+      }
+    }
+  }
