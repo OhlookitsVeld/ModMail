@@ -111,8 +111,6 @@ Become a sponsor on [Patreon](https://patreon.com/OhlookitsVeld).
 
 Modmail supports the use of third-party plugins to extend or add functionalities to the bot. This allows niche features as well as anything else outside of the scope of the core functionality of ModMail. 
 
-Plugins requests and support is available in our [Modmail Plugins Server](https://discord.gg/4JE4XSW).
-
 ## Contributing
 
 Contributions to ModMail are always welcome, whether it be improvements to the documentation or new functionality, please feel free to make the change. 
